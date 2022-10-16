@@ -2,7 +2,7 @@
 
 /**
 * main - print lowercase a-z
-* Return: Always 0 (Success)
+* alphABET
 */
 
 int main(void)
